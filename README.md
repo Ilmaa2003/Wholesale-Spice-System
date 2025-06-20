@@ -4,6 +4,12 @@
 
 **SPICE WORLD** is a custom-developed web application designed to streamline the operations of a wholesale spice distributor. The system supports customer management, product inventory, order processing, invoicing, and delivery coordination with both admin and customer interfaces.
 
+![Wholesale Spice Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Wholesale-Spice-System/main/Images/Screenshot%202025-06-18%20161107.png)
+
+![Wholesale Spice Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Wholesale-Spice-System/main/Images/Screenshot%202025-06-18%20161121.png)
+
+![Wholesale Spice Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Wholesale-Spice-System/main/Images/Screenshot%202025-06-18%20161139.png)
+
 ---
 
 ## Key Features
